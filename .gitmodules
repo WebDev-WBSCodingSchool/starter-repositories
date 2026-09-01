@@ -13,3 +13,6 @@
 [submodule "starter-tailwind"]
 	path = starter-tailwind
 	url = git@github.com:WebDev-WBSCodingSchool/starter-tailwind.git
+[submodule "starter-event-scheduler-js"]
+	path = starter-event-scheduler-js
+	url = git@github.com:WebDev-WBSCodingSchool/starter-event-scheduler-js.git
