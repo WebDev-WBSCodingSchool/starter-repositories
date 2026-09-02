@@ -1,11 +1,11 @@
-[submodule "art-explorer"]
-	path = art-explorer
+[submodule "starter-art-explorer"]
+	path = starter-art-explorer
 	url = git@github.com:WebDev-WBSCodingSchool/starter-react-ts-mini-project.git
-[submodule "movie-diary"]
-	path = movie-diary
+[submodule "starter-movie-diary"]
+	path = starter-movie-diary
 	url = git@github.com:WebDev-WBSCodingSchool/starter-movie-diary.git
-[submodule "personal-diary"]
-	path = personal-diary
+[submodule "starter-personal-diary"]
+	path = starter-personal-diary
 	url = git@github.com:WebDev-WBSCodingSchool/starter-personal-diary.git
 [submodule "starter-html"]
 	path = starter-html
