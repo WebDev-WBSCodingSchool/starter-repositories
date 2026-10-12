@@ -16,3 +16,7 @@
 [submodule "starter-event-scheduler-js"]
 	path = starter-event-scheduler-js
 	url = git@github.com:WebDev-WBSCodingSchool/starter-event-scheduler-js.git
+[submodule "starter-command-line-word-games"]
+	path = starter-command-line-word-games
+	url = git@github.com:WebDev-WBSCodingSchool/starter-command-line-word-games.git
+	branch = main
